@@ -1,37 +1,25 @@
 [
     {
-        "title": "လူသားစား ဘီလူး(စ/ဆုံး) - တာတေ",
-        "description": "TTT1",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဒုတိယ မဖဲဝါ - တာတေ",
-        "description": "TTT2",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဝမ်းတွင်းစုန်း - တာတေ",
-        "description": "TTT2",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "လူနီကလေး - တာတေ",
-        "description": "TTT2",
-        "image": "",
-        "category": ""
-    },
-    {
         "title": "လူနက်ကြီး - တာတေ",
-        "description": "TTT2",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lu%20net%20gyi.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "ကိုယ်တူကိုယ်ခွဲ မဖဲဝါ - တာတေ",
-        "description": "",
+        "title": "မှော်ဝင်ကြေးမုံ - တာတေ",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/mor%20win%20kyay%20mone.html",
+        "image": "",
+        "category": ""
+    },
+    {
+        "title": "တို့ဆေး - တာတေ",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/toe%20say.html",
+        "image": "",
+        "category": ""
+    },
+    {
+        "title": "မှင်စာဆိုးပေ - တာတေ",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/min%20sar%20soe%20pay.html",
         "image": "",
         "category": ""
     }
