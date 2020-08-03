@@ -1,439 +1,49 @@
 [
     {
-        "title": "လူနက်ကြီး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lu%20net%20gyi.html",
+        "title": "Tartay A",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/a.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "မှော်ဝင်ကြေးမုံ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/mor%20win%20kyay%20mone.html",
+        "title": "Tartay B",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/b.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "တို့ဆေး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/toe%20say.html",
+        "title": "Tartay A",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/a.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "မဖဲဝါရဲ့ကျောက်ရုပ် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phae%20war%20yae%20kyote%20yoke.html",
+        "title": "Tartay B",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/b.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "ရေမျောကမ်းတင် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/yay%20myaw%20kan%20tin.html",
+        "title": "Tartay A",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/a.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "တွင်းအောင်းတစ္ဆေ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/twin%20aung%20ta%20say.html",
+        "title": "Tartay B",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/b.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "လူသေရင်တစ္ဆေဖြစ်သတဲ့လား - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lu%20thay%20yin%20ta%20say.html",
+        "title": "Tartay A",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/a.html",
         "image": "",
         "category": ""
     },
     {
-        "title": "ဘိုးမီးသွေး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/foe%20mee%20thway.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ချစ်ကလဲ့စား - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/chit%20kala%20sar.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ပဉ္စလောဟာအရုပ် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyin%20sa%20law%20ka%20ayote.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဂူအောင်းကဝေ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyin%20sa%20law%20ka%20ayote.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကန်တော်ကဝေမ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kantaw%20kawai%20ma.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ရေတံခွန်ချောင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/yay%20ta%20gon%20chaung.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကျတ်တွင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kyat%20twin.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တစ္ဆေလက်သီး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ta%20say%20latt%20thee.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "သရဲပေတလူ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tha%20ye%20pay%20ta%20lu.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မဖဲဝါကို ကိုက်တဲ့မိကျောင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phae%20war%20kite%20tae%20mee%20chaung.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "လူခြောက်မယား - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lu%20chauk%20mayar.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "သူခိုးခြေရာ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tha%20khoe%20chay%20yar.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "အသူရကာယ်ဘုံ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/a%20thu%20racal%20bone.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကဝေသွေး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kaway%20thway.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မဖဲဝါရဲ့မဖဲဝါ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phal%20war%20ye%20ma%20phal%20war.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ငကျောက်ဖားဂူ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/nga%20kyauk%20phar%20gu.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "နတ်ခုန်ချောင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/nat%20khone%20chaung.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "အရမ်းခြောက်တဲ့ တစ္ဆေ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ayan%20chauk%20tae%20tasay.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ပဉ္စလက်မှော် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyin%20sa%20lat%20mhaw.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဘီလူးစောင့်တဲ့အင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/blue%20saung%20tae%20inn.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တောင်တော်ဘုရင်မ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/taung%20taw%20bayin%20ma.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဝမ်းတွင်းစုန်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/one%20twin%20sone.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "စုန်းထီး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sone%20htee.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ပျော်တတ်တဲ့ ဝိညာဉ် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyaw%20tatt%20tae%20witt%20nyin.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မုန်းသူ့ရန်ငြိုး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/mone%20thu%20yan%20nyoe.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "နဂါးပတ်ကျော့ကွင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/nagar%20pat%20kyawt%20kwin.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "အင်းကြီးတစ္ဆေ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/Inn%20Gyi%20Ta%20Say.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မဖဲဝါရဲ့မဖဲဝါ ၁ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phae%20war%20ya%20ma%20phae%20war%201.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဘီလူးအော်သံ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/blue%20aww%20than.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တာတေကို တစ္ဆေခြောက်တယ် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tar%20tay%20ko%20tasay%20chauk%20tal.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဆရာပြန်ပြေး ဘုရားကလေး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sayar%20pyan%20pyay%20phayar%20ka%20lay.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကျီးကန်းမ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kyee%20kan%20ma.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကိုးသင်းချိုင်း ပုဆိန် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/koe%20thin%20gyain%20pa%20sine.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တစ္ဆေထောင်ခြောက် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ta%20say%20htaung%20chauk.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တောင်ပုလဲကုန်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/taung%20palae%20kone.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တစ္ဆေရန်ငြိုး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tasayyannyoe.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တတိယမျက်လုံး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tatiyamyatlone.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဈေးသရဲ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/zaythayae.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "လူသတ်ကုန်းက မဖဲဝါ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/luthetkonekamaphaewar.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ခွေးနက်ကြီးရဲ့အော်သံ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kwaynetkyiyaeouthan.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တစ္ဆေလေးနေတဲ့အိမ် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tasaylaynaytaeeain.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဖဲသမား အသုဘ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/phaethamarathuba.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ခွေးနက်ကြီးနဲ့သိုက်စောင့်သရဲ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kwaynetkyinaethikesountthaye.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "တပွဲစားသရဲ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tapwalsarthaye.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မဖဲဝါမဝင်ရ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarmawinya.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ခေါင်းရောင်းတဲ့ဆိုင် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kaungyoungtaesaing.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မဖဲဝါထမ်းတဲ့ခေါင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarhtantaekaung.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မဖဲဝါအသက် ၄၄ နှစ် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarathet44.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "အင်းသရဲ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/innthayae.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မြောက်ရိုးကဇောက်ထိုး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/myokeyoekazoukhtoe.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကိုယ်တော်လေးရဲ့ကြင်ယာတော် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kotawlayyekyinyartaw.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မဖဲဝါမွေးတဲ့သား - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarmwaytaethar.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကြိုးနဲ့ကာတဲ့ခြံ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kyoenaekartaechan.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဂဝံမျက်နှာဖုံး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/gawinmyatnarphone.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "လူနီကလေး - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lunikalay.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကဝေပျိုအလွမ်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kawaipyoalwan.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဝိဉာဉ်စုတ်တဲ့နတ် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/wuitnyinsotetaenat.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ဖဲသမားစကား - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/phaethamarsagar.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ခြေရာတစ်ထောင်ငနက်မှောင် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/chayartahtaungnganatmaung.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "စုန်းမ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sonema.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "သရဲနက်ကျော် - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/thayaenatkyaw.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "စောရဦးခေါင်း - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sawyaoogaung.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "စုန်းကြောက်တဲ့ဗုံ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sonekyauttaebone.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ကပ္ပလီကဝေမ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/catplikawayma.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "ခွာမဲ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kwarmal.html",
-        "image": "",
-        "category": ""
-    },
-    {
-        "title": "မှင်စာဆိုးပေ - တာတေ",
-        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/min%20sar%20soe%20pay.html",
+        "title": "Tartay B",
+        "description": "https://raw.githubusercontent.com/xi038/xighstry/master/b.html",
         "image": "",
         "category": ""
     }
